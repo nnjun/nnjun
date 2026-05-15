@@ -6,7 +6,6 @@ I am a professional Android Developer.
 - 🔭 I’m in <b>Guang Zhou, China.</b>
 - 📫 How to reach me: 1871357815@qq.com
 
-Blog: [https://blog.niunaijun.top](https://blog.niunaijun.top)
 <!--
 **nnjun/nnjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
